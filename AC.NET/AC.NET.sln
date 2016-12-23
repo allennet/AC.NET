@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC.NET", "AC.NET\AC.NET.csproj", "{68BF5B80-B771-4416-9CF5-A83AFAF94B44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "AC.NET\DataAccess.csproj", "{68BF5B80-B771-4416-9CF5-A83AFAF94B44}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{CF01E971-ACC5-4CF9-86CC-9CEAA857377A}"
 EndProject
